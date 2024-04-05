@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+}
+.l1{
+    background-color: black;
+    color: aliceblue;
+}
+h1,li,ul{
+    display: inline;
+}
+ul{
+    
+    padding-left: 80%;
+}
+li:hover{
+    color: aquamarine;
+    cursor: pointer;
+}
+.serch{
+   margin: 40px;
+   
+    text-align: center;
+}
+input{
+    padding-right: 400px;
+}
+.pic{
+    text-align: center;
+}
+.p1:hover{
+    color: aqua;
+}
+.p2:hover{
+    color: blueviolet;
+}
+.p3:hover{
+    color: blue;
+}
+.p1{
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+.p2{
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+.p3{
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+.ab{
+    text-align: center;
+    padding: 30px;
+}
+.bc{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    color: aquamarine;
+}
